@@ -1,0 +1,1 @@
+import{u as a}from"./BICt_uPF.js";function i(){return a("/api/stack",{key:"stack",default:()=>[],transform:t=>t.data},"$mVj0OV3k-f")}function n(){return a("/api/timeline",{key:"timeline",default:()=>[],transform:t=>t.data},"$XLMFkVxWV6")}export{n as a,i as u};
